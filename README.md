@@ -9,3 +9,10 @@
 3. `git commit -m "<commit mssg>"`
 4. `default branch is named as master `
 5. `git push origin <branch name>`
+
+<!-- CONTRIBUTION  -->
+
+1. `git clone <forked repo>`
+2. `git checkout -b <GitUsername/featureName>`
+3. `git commit -m "<commit>"`
+4. `git push origin <GitUsername/featureName>`
